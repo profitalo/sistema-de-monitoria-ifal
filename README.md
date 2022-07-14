@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+# <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/573px-Logotipo_IFET.svg.png' height='28'/>  Sistema de gerenciamento da monitoria 
+Projeto de TCC cujo objetivo é desenvolver um sistema para gerenciar o processo de seleção e acompanhamento do monitor no IFAL - Campus Palmeira dos Índios. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 👩🏽‍💻 Equipe de desenvolvimento
 
-## Available Scripts
+### Alunos
 
-In the project directory, you can run:
+ 📸 | Nome | Email
+| --- | --- | --- |
+ <img src='https://github.com/JaianeOliveira.png' height='30' /> | [Jaiane Oliveira](https://github.com/JaianeOliveira) | <jaianeoliveira.dev@gmail.com>
+ <img src='https://github.com/TheusGabriel.png' height='30' /> | [Matheus Gabriel](https://github.com/TheusGabriel) | <matheugmalmeida@gmail.com>
+ 
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Professor Orientador
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Ítalo Arruda](mailto:italo.arruda@ifal.edu.br)
 
-### `yarn test`
+## 🚧 Como rodar o projeto na sua máquina
+Clone o projeto na sua máquina
+```
+$ git clone https://github.com/JaianeOliveira/sistema-de-monitoria-ifal
+```
+em seguida, dentro da pasta do repositório clonado, instale as dependências do projeto com o comando
+```
+$ yarn
+```
+agora é só executar com 
+```
+$ yarn start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Padrões de projeto
 
-### `yarn build`
+### Sistema de branches
+A branch `main` equivale ao *ambiente de produção*, a branch `staging` ao *ambiente de homologação* e a branch `development` ao *ambiente de desenvolvimento*.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Nunca faça commit direto na main**. Para manter uma arvore de commits organizada, sempre que for implementar uma nova feature navegue até `development` e crie uma nova branch a partir dela com o comando `git checkout -b nome-da-branch`, nomeando-a de acordo com a feature que você vai implementar de preferência em inglês. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Quando você terminar de implementar a nova feature, faça o `merge` da branch que você estava com `development`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> #### Boa prática
+> Uma boa prática pra evitar que você tenha mais dor de cabeça com os conflitos do merge é fazer primeiro o merge da development na sua branch e resolver os conflitos nela. Depois que estiverem resolvidos você faz o merge da sua branch na development sem mais problemas.
+>
+> *atenção: não esqueça de dar `git pull` na development antes do merge*
 
-### `yarn eject`
+Depois de testar o sistema na development, se estiver tudo certo, você pode mandar as alterações pra `staging`. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Padrões de commits
+É interessante que a estrutura dos seus commits siga as os padrões de [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔗Links
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Protótipo no Figma](https://www.figma.com/file/5YDaF4Hdhlfvk7TqC0IEDt/Untitled?node-id=0%3A1)
+- [Trello](https://trello.com/b/jmmTGkmQ/sistema-de-gerenciamento-de-monitoria)
 
-## Learn More
+## 🛠️ Tecnologias
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- React JS
+- Typescript
