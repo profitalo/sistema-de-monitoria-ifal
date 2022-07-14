@@ -1,5 +1,5 @@
 # <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/573px-Logotipo_IFET.svg.png' height='28'/>  Sistema de gerenciamento da monitoria 
-Projeto de TCC cujo objetivo é desenvolver um sistema para gerenciar o processo de seleção e acompanhamento do monitor no IFAL - Campus Palmeira dos Índios. 
+Projeto de TCC cujo objetivo é desenvolver um sistema para gerenciar o processo de seleção e acompanhamento do monitor no IFAL - Campus Palmeira dos Índios. Clique [aqui](https://sistema-de-monitoria-ifal.vercel.app/) pra testar.
 
 ## 👩🏽‍💻 Equipe de desenvolvimento
 
