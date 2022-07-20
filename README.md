@@ -63,7 +63,7 @@ Depois de testar o sistema na development, se estiver tudo certo, você pode man
 - [Fluxo de usuário](https://www.figma.com/file/pkUbrUo49jNMsDexcLUA8r/Untitled?node-id=0%3A1)
 - [Funcionalidades](https://www.figma.com/file/OrW7K6S51HSzmthFx3r5TI/Funcionalidades?node-id=0%3A1)
 - [Trello](https://trello.com/b/jmmTGkmQ/sistema-de-gerenciamento-de-monitoria)
-- [Site em produção](https://sistema-de-monitoria-ifal.vercel.app/)
+- [Preview](https://sistema-de-monitoria-ifal.vercel.app/)
 - [Drive](https://drive.google.com/drive/folders/0AOp5ERKBOyQdUk9PVA)
 
 ## 🛠️ Tecnologias
