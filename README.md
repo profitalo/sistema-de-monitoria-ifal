@@ -14,7 +14,12 @@ Projeto de TCC cujo objetivo é desenvolver um sistema para gerenciar o processo
 
 ### Professor Orientador
 
-- [Ítalo Arruda](mailto:italo.arruda@ifal.edu.br)
+
+ 📸 | Nome | Email
+| --- | --- | --- |
+ <img src='https://github.com/profitalo.png' height='30' /> | [Ítalo Arruda](https://github.com/profitalo) | <italo.arruda@ifal.edu.br>
+
+
 
 ## 🚧 Como rodar o projeto na sua máquina
 Clone o projeto na sua máquina
