@@ -7,8 +7,10 @@ Projeto de TCC cujo objetivo é desenvolver um sistema para gerenciar o processo
 
  📸 | Nome | Email
 | --- | --- | --- |
- <img src='https://github.com/JaianeOliveira.png' height='30' /> | [Jaiane Oliveira](https://github.com/JaianeOliveira) | <jaianeoliveira.dev@gmail.com>
- <img src='https://github.com/TheusGabriel.png' height='30' /> | [Matheus Gabriel](https://github.com/TheusGabriel) | <matheugmalmeida@gmail.com>
+ <img src='https://github.com/JaianeOliveira.png' height='30' /> | [Jaiane Oliveira](https://github.com/JaianeOliveira) | <jso5@aluno.ifal.edu.br>
+ <img src='https://github.com/MthGabriel.png' height='30' /> | [Matheus Gabriel](https://github.com/MthGabriel) | <mgma1@aluno.ifal.edu.br>
+ <img src='' height='30' /> | Isabel | <iso5@aluno.ifal.edu.br>
+ <img src='' height='30' /> | Vinícius | <vbs14@aluno.ifal.edu.br>
  
 
 
