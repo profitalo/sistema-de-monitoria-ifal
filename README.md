@@ -11,6 +11,7 @@ Projeto de cujo objetivo é desenvolver um sistema para gerenciar o processo de 
  <img src='https://github.com/MthGabriel.png' height='30' /> | [Matheus Gabriel](https://github.com/MthGabriel) | <mgma1@aluno.ifal.edu.br>
  <img src='' height='30' /> | Isabel | <iso5@aluno.ifal.edu.br>
  <img src='' height='30' /> | Vinícius | <vbs14@aluno.ifal.edu.br>
+ <img src='' height='30' /> | Everson | <eumo14@aluno.ifal.edu.br>
  
 
 
